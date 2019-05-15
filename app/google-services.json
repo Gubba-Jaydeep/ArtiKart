@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326450873776",
+    "firebase_url": "https://artikart-75307.firebaseio.com",
+    "project_id": "artikart-75307",
+    "storage_bucket": "artikart-75307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326450873776:android:d9ed68a337fd260c",
+        "android_client_info": {
+          "package_name": "com.amigos.artikart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326450873776-5ih32vvqibep6nvcssuopfuh68qgs1qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amigos.artikart",
+            "certificate_hash": "ba0cd548e0687fef1adc3eaf34ce0147dc6c20a1"
+          }
+        },
+        {
+          "client_id": "326450873776-4cd3sr2r3qbvdn59ulg95edkhbsidvf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDas4u3691WfLJ4g5-MqsPAF1GreRgPIeo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326450873776-4cd3sr2r3qbvdn59ulg95edkhbsidvf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
